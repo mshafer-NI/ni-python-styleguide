@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - ni_python_styleguide/**
-      - 'poetry.lock'
+      - poetry.lock
       - pyproject.toml
       - docs/Coding-Conventions.md
       - .github/workflows/PR.yml
